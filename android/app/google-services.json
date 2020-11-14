@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306460133007",
+    "firebase_url": "https://flash-chat-29de4.firebaseio.com",
+    "project_id": "flash-chat-29de4",
+    "storage_bucket": "flash-chat-29de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306460133007:android:255ec8ed999c728de2d2fa",
+        "android_client_info": {
+          "package_name": "co.simonacossai.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306460133007-t7ke9pbfn9j3c2kke5p13u7v5jvgetp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnrXKcPusGue9eBoKIgdTMmSNndkgnr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306460133007-t7ke9pbfn9j3c2kke5p13u7v5jvgetp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
